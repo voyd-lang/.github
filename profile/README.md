@@ -1,6 +1,7 @@
 # Void Language
 
-Void is a full stack web programming language for building maintainable applications without losing your sanity.
+A programming language for building scalable and maintainable fullstack web apps.
+
 
 <!--
 
