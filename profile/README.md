@@ -1,4 +1,4 @@
-# Void Language
+# Voyd Language
 
 A programming language for building scalable and maintainable fullstack web apps.
 
